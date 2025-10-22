@@ -1,0 +1,41 @@
+# build artifacts
+bin/
+obj/
+[Bb]uild/
+[Oo]ut/
+artifacts/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# test results
+TestResults/
+*.coverage*
+*.trx
+
+# NuGet (legacy)
+packages/
+
+# sometimes tools create separate 'publish' folders (bin/*/publish already covered)
+**/publish/
+
+# logs & caches
+*.log
+_ReSharper.Caches/
+nCrunch_*
+*.ncrunchsolution
+
+# local settings
+*.local.json
+appsettings.Development.json
+secrets.json
+
+# OS junk
+Thumbs.db
+.DS_Store
