@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vqV6bqkFy7nhmnbR/3wxFqazMkZy4q+3rgWs8IvCQbg=",
+  "Source": "SenderApiInterface",
+  "BasePath": "_content/SenderApiInterface",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

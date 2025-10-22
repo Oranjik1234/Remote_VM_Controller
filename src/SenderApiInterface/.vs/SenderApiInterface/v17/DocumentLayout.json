@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alex\\source\\repos\\SenderApiInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348C28FE-E1BF-4B53-A765-014879D2ECFB}|SenderApiInterface.csproj|c:\\users\\alex\\source\\repos\\senderapiinterface\\controllers\\vmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348C28FE-E1BF-4B53-A765-014879D2ECFB}|SenderApiInterface.csproj|solutionrelative:controllers\\vmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348C28FE-E1BF-4B53-A765-014879D2ECFB}|SenderApiInterface.csproj|c:\\users\\alex\\source\\repos\\senderapiinterface\\services\\passwordwalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348C28FE-E1BF-4B53-A765-014879D2ECFB}|SenderApiInterface.csproj|solutionrelative:services\\passwordwalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348C28FE-E1BF-4B53-A765-014879D2ECFB}|SenderApiInterface.csproj|c:\\users\\alex\\source\\repos\\senderapiinterface\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348C28FE-E1BF-4B53-A765-014879D2ECFB}|SenderApiInterface.csproj|solutionrelative:controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348C28FE-E1BF-4B53-A765-014879D2ECFB}|SenderApiInterface.csproj|c:\\users\\alex\\source\\repos\\senderapiinterface\\services\\ivmexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348C28FE-E1BF-4B53-A765-014879D2ECFB}|SenderApiInterface.csproj|solutionrelative:services\\ivmexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348C28FE-E1BF-4B53-A765-014879D2ECFB}|SenderApiInterface.csproj|c:\\users\\alex\\source\\repos\\senderapiinterface\\models\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348C28FE-E1BF-4B53-A765-014879D2ECFB}|SenderApiInterface.csproj|solutionrelative:models\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\source\\repos\\SenderApiInterface\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\alex\\source\\repos\\SenderApiInterface\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "Controllers\\StatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:36:11.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordWalidator.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\source\\repos\\SenderApiInterface\\Services\\PasswordWalidator.cs",
+              "RelativeDocumentMoniker": "Services\\PasswordWalidator.cs",
+              "ToolTip": "C:\\Users\\alex\\source\\repos\\SenderApiInterface\\Services\\PasswordWalidator.cs",
+              "RelativeToolTip": "Services\\PasswordWalidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:31:57.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Requests.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\source\\repos\\SenderApiInterface\\Models\\Requests.cs",
+              "RelativeDocumentMoniker": "Models\\Requests.cs",
+              "ToolTip": "C:\\Users\\alex\\source\\repos\\SenderApiInterface\\Models\\Requests.cs",
+              "RelativeToolTip": "Models\\Requests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:35:46.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVmExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\source\\repos\\SenderApiInterface\\Services\\IVmExecutor.cs",
+              "RelativeDocumentMoniker": "Services\\IVmExecutor.cs",
+              "ToolTip": "C:\\Users\\alex\\source\\repos\\SenderApiInterface\\Services\\IVmExecutor.cs*",
+              "RelativeToolTip": "Services\\IVmExecutor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:33:43.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VmController.cs",
+              "DocumentMoniker": "C:\\Users\\alex\\source\\repos\\SenderApiInterface\\Controllers\\VmController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VmController.cs",
+              "ToolTip": "C:\\Users\\alex\\source\\repos\\SenderApiInterface\\Controllers\\VmController.cs",
+              "RelativeToolTip": "Controllers\\VmController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T23:34:24.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+[
+  {
+    "ContainingType": "VM_Hub.Controllers.StatusController",
+    "Method": "GetHostResources",
+    "RelativePath": "status/resources",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VM_Hub.Controllers.VMController",
+    "Method": "ConfigureSharedFolder",
+    "RelativePath": "vm/configure-shared-folder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vmId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "hostPath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "guestPath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "readOnly",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VM_Hub.Controllers.VMController",
+    "Method": "CreateVM",
+    "RelativePath": "vm/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "templateName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VM_Hub.Controllers.VMController",
+    "Method": "DeleteVM",
+    "RelativePath": "vm/delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vmName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VM_Hub.Controllers.VMController",
+    "Method": "GetVMInfo",
+    "RelativePath": "vm/info-VM",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vmName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VM_Hub.Controllers.VMController",
+    "Method": "StartVM",
+    "RelativePath": "vm/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vmName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VM_Hub.Controllers.VMController",
+    "Method": "StopVM",
+    "RelativePath": "vm/stop",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vmName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VM_Hub.Controllers.VMController",
+    "Method": "UpdateVMConfig",
+    "RelativePath": "vm/update-VM-config",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vmName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "config",
+        "Type": "VM_Hub.SystemMetrics.VMInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

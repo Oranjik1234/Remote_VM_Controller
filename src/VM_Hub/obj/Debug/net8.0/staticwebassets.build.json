@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GBIQOjkP5HmG04sCBCxdLgj+bi69gCd7EswgOUWuObM=",
+  "Source": "VM_Hub",
+  "BasePath": "_content/VM_Hub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

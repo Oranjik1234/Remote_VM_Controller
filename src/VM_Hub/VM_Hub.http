@@ -1,0 +1,6 @@
+@VM_Hub_HostAddress = http://localhost:5214
+
+GET {{VM_Hub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

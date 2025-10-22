@@ -1,0 +1,5 @@
+C:\Users\alex\source\repos\VM_Hub\CLI_Application\obj\Debug\net8.0\VMHub_CLI.csproj.AssemblyReference.cache
+C:\Users\alex\source\repos\VM_Hub\CLI_Application\obj\Debug\net8.0\VMHub_CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\source\repos\VM_Hub\CLI_Application\obj\Debug\net8.0\VMHub_CLI.AssemblyInfoInputs.cache
+C:\Users\alex\source\repos\VM_Hub\CLI_Application\obj\Debug\net8.0\VMHub_CLI.AssemblyInfo.cs
+C:\Users\alex\source\repos\VM_Hub\CLI_Application\obj\Debug\net8.0\VMHub_CLI.csproj.CoreCompileInputs.cache
